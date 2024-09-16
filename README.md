@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @FINFOO22
-- 👀 I’m interested in learning to code
-- 🌱 I’m currently learning python, in future will try to learn R
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me ...
+- 🌱 Learning Python and R, planning to extend this with web-based programming languages
+- 💞️ I’m looking to collaborate on anything RNA-seq/NetworkAnalysis/Metabolomics/Bioinformatics-Based
+- 📫 How to reach me ... finnbfraser@gmail.com
 
 <!---
 FINFOO22/FINFOO22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
